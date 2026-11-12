@@ -1,0 +1,8 @@
+crewai[google-genai]
+flask
+gunicorn
+gspread
+google-auth
+pypdf
+requests
+beautifulsoup4
