@@ -1,3 +1,0 @@
-crewai[google-genai]
-flask
-gunicorn
